@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|solutionrelative:regin\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|c:\\users\\student-a502.permaviat\\desktop\\prac6\\wpfapp1\\regin\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|C:\\Users\\student-a502.PERMAVIAT\\Desktop\\Prac6\\WpfApp1\\regin\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|solutionrelative:regin\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,8 +42,7 @@
               "RelativeToolTip": "RegIn\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-16T09:48:15.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-16T09:48:15.558Z"
             }
           ]
         }
