@@ -9,7 +9,6 @@ namespace RegIn.Classes
 {
     public class User
     {
-        WorkingDB db = new WorkingDB();
         public int Id { get; set; }
         public string Login { get; set; }
         public string Password { get; set; }
@@ -24,14 +23,17 @@ namespace RegIn.Classes
 
         public void GetUserLogin(string Login)
         {
-            var user = db.Users.FirstOrDefault(x => x.Login == Login);
-            if (user != null)
+            using (var db = new WorkingDB())
             {
-                HandlerCorrectLogin.Invoke();
-            }
-            else
-            {
-                HandlerInCorrectLogin.Invoke();
+                var user = db.Users.FirstOrDefault(x => x.Login == Login);
+                if (user != null)
+                {
+                    HandlerCorrectLogin.Invoke();
+                }
+                else
+                {
+                    HandlerInCorrectLogin.Invoke();
+                }
             }
         }
 
