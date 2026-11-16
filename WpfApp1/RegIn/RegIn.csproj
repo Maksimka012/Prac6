@@ -101,20 +101,8 @@
     <Reference Include="MySql.Data, Version=26.10.0.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
       <HintPath>..\packages\MySql.Data.26.10.0\lib\net48\MySql.Data.dll</HintPath>
     </Reference>
-    <Reference Include="MySql.Data.EntityFrameworkCore, Version=8.0.22.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
-      <HintPath>..\packages\MySql.Data.EntityFrameworkCore.8.0.22\lib\netstandard2.0\MySql.Data.EntityFrameworkCore.dll</HintPath>
-    </Reference>
-    <Reference Include="MySqlConnector, Version=0.69.10.0, Culture=neutral, PublicKeyToken=d33d3e53aa5f8c92, processorArchitecture=MSIL">
-      <HintPath>..\packages\MySqlConnector.0.69.10\lib\net471\MySqlConnector.dll</HintPath>
-    </Reference>
     <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="Pomelo.EntityFrameworkCore.MySql, Version=3.2.7.0, Culture=neutral, PublicKeyToken=2cc498582444921b, processorArchitecture=MSIL">
-      <HintPath>..\packages\Pomelo.EntityFrameworkCore.MySql.3.2.7\lib\netstandard2.0\Pomelo.EntityFrameworkCore.MySql.dll</HintPath>
-    </Reference>
-    <Reference Include="Pomelo.JsonObject, Version=2.2.1.0, Culture=neutral, PublicKeyToken=2cc498582444921b, processorArchitecture=MSIL">
-      <HintPath>..\packages\Pomelo.JsonObject.2.2.1\lib\netstandard2.0\Pomelo.JsonObject.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Buffers, Version=4.0.4.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
@@ -174,6 +162,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="Elements\ElementCapture.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -185,6 +177,9 @@
     <Compile Include="Classes\SendMail.cs" />
     <Compile Include="Classes\User.cs" />
     <Compile Include="Classes\WorkingDB.cs" />
+    <Compile Include="Elements\ElementCapture.xaml.cs">
+      <DependentUpon>ElementCapture.xaml</DependentUpon>
+    </Compile>
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -217,10 +212,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Elements\" />
-    <Folder Include="Images\" />
-    <Folder Include="Pages\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

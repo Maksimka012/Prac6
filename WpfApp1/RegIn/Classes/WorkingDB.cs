@@ -1,25 +1,46 @@
-﻿using System;
+﻿using MySql.Data.MySqlClient;
+using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
-using MySql.Data.MySqlClient;
+
 
 namespace RegIn.Classes
 {
-    public class WorkingDB : DbContext
+    public class WorkingDB 
     {
-        readonly static string conncection = "server=127.0.0.1;port=3306;uid=root;pwd=;database=regin;";
+        readonly static string conncection = "server=127.0.0.1;uid=root;pwd=;database=regin";
+        public static MySqlConnection OpenConnection()
+        {
+            try
+            {
+                MySqlConnection conn = new MySqlConnection(conncection);
+                conn.Open();
+                return conn;
+            } catch(Exception ex)
+            {
+                Debug.WriteLine(ex.Message);
+                return null;
+            }
+        } 
 
-        public DbSet<User> Users { get; set; }
-        public WorkingDB()
+        public static MySqlDataReader Query(string Sql, MySqlConnection conn)
         {
-            Database.EnsureCreated();
+            MySqlCommand cmd = new MySqlCommand(Sql, conn);
+            return cmd.ExecuteReader();
         }
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+
+        public static void CloseConnecion(MySqlConnection conn)
         {
-            optionsBuilder.UseMySQL(conncection);
+            conn.Clone();
+            MySqlConnection.ClearPool(conn);
+        }
+
+        public static bool OpenConnection(MySqlConnection conn)
+        {
+            return conn != null && conn.State == System.Data.ConnectionState.Open;
         }
     }
 }
