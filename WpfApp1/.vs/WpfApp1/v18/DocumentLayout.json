@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|c:\\users\\admin\\desktop\\prac6\\prac6\\wpfapp1\\regin\\pages\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|solutionrelative:regin\\pages\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|c:\\users\\admin\\desktop\\prac6\\prac6\\wpfapp1\\regin\\pages\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|solutionrelative:regin\\pages\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\regin\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|solutionrelative:regin\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\regin\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|solutionrelative:regin\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|c:\\users\\admin\\desktop\\prac6\\prac6\\wpfapp1\\regin\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|solutionrelative:regin\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|c:\\users\\admin\\desktop\\prac6\\prac6\\wpfapp1\\regin\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|solutionrelative:regin\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|c:\\users\\admin\\desktop\\prac6\\prac6\\wpfapp1\\regin\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|solutionrelative:regin\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|c:\\users\\admin\\desktop\\prac6\\prac6\\wpfapp1\\regin\\elements\\elementcapture.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|solutionrelative:regin\\elements\\elementcapture.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|c:\\users\\admin\\desktop\\prac6\\prac6\\wpfapp1\\regin\\elements\\elementcapture.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\regin\\elements\\elementcapture.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|solutionrelative:regin\\elements\\elementcapture.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|c:\\users\\admin\\desktop\\prac6\\prac6\\wpfapp1\\regin\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|solutionrelative:regin\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\regin\\classes\\sendmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\regin\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|solutionrelative:regin\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\regin\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4EB0A24-820C-49F9-AB4E-3B015D8B54AC}|RegIn\\RegIn.csproj|solutionrelative:regin\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,6 +63,95 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\RegIn\\Pages\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "RegIn\\Pages\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\RegIn\\Pages\\Login.xaml.cs",
+              "RelativeToolTip": "RegIn\\Pages\\Login.xaml.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAADgv9IAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T08:41:52.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\RegIn\\Pages\\Login.xaml",
+              "RelativeDocumentMoniker": "RegIn\\Pages\\Login.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\RegIn\\Pages\\Login.xaml",
+              "RelativeToolTip": "RegIn\\Pages\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-17T08:29:38.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\RegIn\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RegIn\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\RegIn\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RegIn\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAwwCEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T14:56:12.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\RegIn\\Classes\\User.cs",
+              "RelativeDocumentMoniker": "RegIn\\Classes\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\RegIn\\Classes\\User.cs",
+              "RelativeToolTip": "RegIn\\Classes\\User.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAzwIMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T14:56:12.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\RegIn\\App.xaml",
+              "RelativeDocumentMoniker": "RegIn\\App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\RegIn\\App.xaml",
+              "RelativeToolTip": "RegIn\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-17T08:15:24.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\RegIn\\App.config",
+              "RelativeDocumentMoniker": "RegIn\\App.config",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\RegIn\\App.config",
+              "RelativeToolTip": "RegIn\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-11-17T08:15:24.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\RegIn\\App.xaml.cs",
+              "RelativeDocumentMoniker": "RegIn\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\RegIn\\App.xaml.cs",
+              "RelativeToolTip": "RegIn\\App.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T08:28:23.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ElementCapture.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\RegIn\\Elements\\ElementCapture.xaml.cs",
               "RelativeDocumentMoniker": "RegIn\\Elements\\ElementCapture.xaml.cs",
@@ -55,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "ElementCapture.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\RegIn\\Elements\\ElementCapture.xaml",
               "RelativeDocumentMoniker": "RegIn\\Elements\\ElementCapture.xaml",
@@ -67,20 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\RegIn\\Classes\\User.cs",
-              "RelativeDocumentMoniker": "RegIn\\Classes\\User.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\RegIn\\Classes\\User.cs",
-              "RelativeToolTip": "RegIn\\Classes\\User.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAUwIMAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-16T14:56:12.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "SendMail.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\RegIn\\Classes\\SendMail.cs",
               "RelativeDocumentMoniker": "RegIn\\Classes\\SendMail.cs",
@@ -92,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "WorkingDB.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\RegIn\\Classes\\WorkingDB.cs",
               "RelativeDocumentMoniker": "RegIn\\Classes\\WorkingDB.cs",
@@ -104,26 +200,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\RegIn\\MainWindow.xaml",
               "RelativeDocumentMoniker": "RegIn\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\RegIn\\MainWindow.xaml",
               "RelativeToolTip": "RegIn\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-11-16T14:56:12.939Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\RegIn\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "RegIn\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Prac6\\Prac6\\WpfApp1\\RegIn\\MainWindow.xaml.cs",
-              "RelativeToolTip": "RegIn\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-16T14:56:12.94Z"
+              "WhenOpened": "2026-11-16T14:56:12.939Z",
+              "EditorCaption": ""
             }
           ]
         }
