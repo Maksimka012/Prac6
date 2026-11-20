@@ -33,7 +33,7 @@ namespace RegIn.Classes
             MySqlConnection conn = WorkingDB.OpenConnection();
             if (WorkingDB.OpenConnection(conn))
             {
-                MySqlDataReader userQuery = WorkingDB.Query($"select * from `users` where `Login` = `{login}`", conn);
+                MySqlDataReader userQuery = WorkingDB.Query($"select * from `users` where `Login` = '{login}'", conn);
                 if (userQuery.HasRows)
                 {
                     userQuery.Read();
@@ -67,7 +67,7 @@ namespace RegIn.Classes
             MySqlConnection conn = WorkingDB.OpenConnection();
             if (WorkingDB.OpenConnection(conn))
             {
-                MySqlCommand cmd = new MySqlCommand("insert into `users`(`Login`, `Password`, `Name`, `Image`, `DateUpdate`, `DateCreate`) values (@Login, @Password, @Name, @Image, @DateUpdate, @DateCreate@)", conn);
+                MySqlCommand cmd = new MySqlCommand("insert into `users` (`Login`, `Password`, `Name`, `Image`, `DateUpdate`, `DateCreate`) values (@Login, @Password, @Name, @Image, @DateUpdate, @DateCreate)", conn);
                 cmd.Parameters.AddWithValue("@Login", this.Login);
                 cmd.Parameters.AddWithValue("@Password", this.Password);
                 cmd.Parameters.AddWithValue("@Name", this.Name);

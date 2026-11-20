@@ -44,7 +44,7 @@ namespace RegIn
                 EndAnimation.From = 0;
                 EndAnimation.To = 1;
                 EndAnimation.Duration = TimeSpan.FromSeconds(1.2);
-                frame.BeginAnimation(Frame.OpacityProperty, StartAnimation);
+                frame.BeginAnimation(Frame.OpacityProperty, EndAnimation);
             };
             frame.BeginAnimation(Frame.OpacityProperty, StartAnimation);
         }
